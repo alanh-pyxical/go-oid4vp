@@ -1,0 +1,5 @@
+github.com/alanh-pyxical/go-oid4vci v0.1.1 h1:tCR/NsU7hZv3UvCwZPh99CXnPOnQ0vJ2eAOBM2g/6Ic=
+github.com/alanh-pyxical/go-oid4vci v0.1.1/go.mod h1:9kDNnwJm6hAngjj8Tn+AdyORsAC4ozu3cdiqBuyeC1M=
+github.com/alanh-pyxical/go-sd-jwt-vc v0.1.1 h1:E1lhxV8LCsKOWmFvISZHNnFizNmMO3qyuvjim3mDO4M=
+github.com/alanh-pyxical/go-sd-jwt-vc v0.1.1/go.mod h1:2n/mF2qimQQdMtMSv1J/hNNBG+wRrGSlwiG6Bt0lSbA=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
